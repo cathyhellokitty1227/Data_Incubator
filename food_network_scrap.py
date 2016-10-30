@@ -25,7 +25,7 @@ url = ["http://www.foodnetwork.com/recipes/a-z.123.","http://www.foodnetwork.com
 	  "http://www.foodnetwork.com/recipes/a-z.XYZ."]
 
 url_page = [2,14,41,67,8,9,19,31,15,5,4,5,13,26,5,9,38,3,24,64,23,1,7,11,3]
-url_page_visit = [2,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,5,4,5,5,5,4,4,5,5]
+url_page_visit = [6,15,15,15,15,15,15,15,15,12,15,12,15,15,15,15,15,12,15,15,15,12,12,15,15]
 
 
 def category(soup):
